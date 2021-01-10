@@ -1,2 +1,5 @@
-# Inicial-instagram
-Primeiro projeto que faço, aprendi muitos conceitos e outros conhecimentos. Tentei deixar no mínimo o mais parecido possível. 
+# :iphone: Página inicial do Instagram
+
+Tela inicial do instagram feita apenas com HTML e CSS.
+
+## :rocket: Em ação ![](https://media.giphy.com/media/nEuAQjPhkTHnQBlVvx/giphy.gif)
